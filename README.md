@@ -7,9 +7,7 @@ An AI-native thought-capture app. Speak or type a thought and an agent classifie
 </p>
 
 <p align="center">
-  <video src="https://github.com/jasonbono/ThoughtKeeper/raw/main/assets/thoughtkeeper-demo.mp4" controls muted width="320"></video>
-  <br/>
-  <em><a href="assets/thoughtkeeper-demo.mp4">Full 72-second walkthrough</a></em>
+  <em><a href="assets/thoughtkeeper-demo.mp4">Watch the full 72-second walkthrough</a></em>
 </p>
 
 This is a working personal product, not a demo. The notes below point a reviewer at the parts of the code that are worth reading.
