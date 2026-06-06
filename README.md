@@ -2,6 +2,16 @@
 
 An AI-native thought-capture app. Speak or type a thought and an agent classifies it, connects it to related thoughts, and resurfaces it when it matters. It is local-first: a single SQLite database is the source of truth, with hybrid full-text and vector search running in-process.
 
+<p align="center">
+  <img src="assets/thoughtkeeper-demo.gif" width="320" alt="ThoughtKeeper demo" />
+</p>
+
+<p align="center">
+  <video src="https://github.com/jasonbono/ThoughtKeeper/raw/main/assets/thoughtkeeper-demo.mp4" controls muted width="320"></video>
+  <br/>
+  <em><a href="assets/thoughtkeeper-demo.mp4">Full 72-second walkthrough</a></em>
+</p>
+
 This is a working personal product, not a demo. The notes below point a reviewer at the parts of the code that are worth reading.
 
 ## Highlights
